@@ -1,5 +1,5 @@
 # Script Languages
 
 1. JavaScript - Snake Game
-2. Python - 2048
+2. Bash - Arcanoid
 3. Ruby - Tetris
