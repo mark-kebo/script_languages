@@ -2,6 +2,6 @@
 
 1. JavaScript - Snake Game
 2. Bash - Arcanoid<br>
-sudo chmod +x ./arcanoid.sh<br>
-./arcanoid.sh
+<i>sudo chmod +x ./arcanoid.sh<br>
+./arcanoid.sh</i>
 3. Ruby - Tetris
